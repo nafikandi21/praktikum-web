@@ -7,7 +7,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
   <!-- sidebar -->
   <?php include 'partials/head.php' ?>
-
+  <?php include 'database/koneksi.php' ?>
   <body class="hold-transition sidebar-mini">
   <div class="wrapper">
   <!-- sidebar -->
